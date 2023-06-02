@@ -8,7 +8,8 @@
 이 책의 장르는 "Travel" 카테고리에 포함됩니다.
 이미지와 텍스트 분류 문제는 추천 시스템, 상품 카테고리 분류 등 다양한 분야에서 널리 활용되고 있습니다.
 본 대회 참여자들은 주어진 학습 데이터를 바탕으로 모델을 구축한 후, 테스트 데이터에 대해 성능을 내서 제출하면 됩니다.
-<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F5684203%2F824d5257913cdd775c288f67fdb47c7b%2F.JPG?generation=1684581039616516&alt=media" width="50%">
+
+<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F5684203%2F824d5257913cdd775c288f67fdb47c7b%2F.JPG?generation=1684581039616516&alt=media" width="20%">
 
 ## 평가 지표
 본 대회의 평가 지표는 Mean F1-Score입니다.
